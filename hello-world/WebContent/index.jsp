@@ -9,5 +9,7 @@
 <body>
 Welcome to Java World !!
     Automate to OpenShift !!
+    
+    Note: Automated with OpenShift in-built technologoy.
 </body>
 </html>
