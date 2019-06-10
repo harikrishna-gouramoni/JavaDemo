@@ -8,5 +8,6 @@
 </head>
 <body>
 Welcome to Java World !!
+    Automate to OpenShift !!
 </body>
 </html>
